@@ -19,3 +19,11 @@ EZ-InSAR 目前依赖 Linux 系统环境运行，考虑到非专业用户多在W
 - 王晓文，副教授, 西南交通大学地球科学与环境工程学院
 
 联系邮箱: insarwxw@swjtu.edu.cn
+
+
+
+### 交流QQ群
+
+如遇问题，请加入以下QQ群进行讨论与解决。
+
+![QQ-group](./QQ-group.jpg)
